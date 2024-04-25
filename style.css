@@ -1,0 +1,45 @@
+#qmimi{
+
+    font-size: 50px;
+}
+#muji{
+font-size: 20px;
+color: grey;
+font-weight:300
+
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+#titulli{
+    color: orange;
+}
+#paragrafi{
+    font-size: 20px;
+    color: grey;
+    font-weight: 300;
+}
+.teksti{
+    color: grey;
+}
+a{
+    text-decoration:none;
+    color: grey;
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.kutia{
+    width: 18em;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 10px 5px 5px grey;
+}
+#baba{
+
+    display: flex;
+    justify-content: space-evenly;
+}
